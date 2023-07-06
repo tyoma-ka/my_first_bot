@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+__pycache__/
+convert_bot.py
+db.sql
+images/
+index.html
+main.py
+settings.py
+sql_bot.py
+weather_bot.py
+web_app_bot.py
